@@ -21,7 +21,7 @@ Bot qui réalise un investissement mensuel automatique sur Binance, avec un tabl
 
 `Python` `API REST`
 
-### 🎬 TikTok AI Video Pipeline — Création de vidéos automatisée *(bientôt en ligne)*
+### 🎬 TikTok AI Video Pipeline — Création de vidéos automatisée 
 Pipeline qui combine **plusieurs IA via leurs API** pour automatiser la création de vidéos courtes pour TikTok, de l'idée à la vidéo finale.
 
 `Python` `API d'IA` `Automatisation`
