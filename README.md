@@ -38,8 +38,7 @@ Pipeline qui combine **plusieurs IA via leurs API** pour automatiser la créatio
 
 ## 📫 Me contacter
 
-- Email : *ton.email.pro@exemple.com*
-- LinkedIn : *lien vers ton profil*
+- Email : *dacunhadavid143@gmail.nom*
 
 ---
 
